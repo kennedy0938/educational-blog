@@ -1,0 +1,82 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #004080;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+header nav ul{
+    list-style: none;
+    padding: 0;
+}
+header nav ul li{
+    display: inline;
+    margin: 0 10px;
+}
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  section {
+    padding: 2rem;
+  }
+  #About{
+    background: #f4f4f4;
+  }
+  #Posts{
+    margin-bottom: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+footer {
+    background: #004080;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  } 
+  img[src="gamification.png"] {
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid #ccc;
+  }
+  img[src="ai.png"] {
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid #ccc;
+  }
+  img[src="techclassroom.png"] {
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid #ccc;
+  }
+  img[src="digitalclass.png"] {
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid #ccc;
+  }
+  img[src="citizens.png"] {
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid #ccc;
+  }
